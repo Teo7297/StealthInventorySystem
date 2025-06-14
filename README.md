@@ -2,6 +2,7 @@
 
 ## Overview
 A Unity-based inventory system created as part of a technical assessment for Stealth. This project implements a functional inventory system according to the requirements specified in the [Test_Programmatori.pdf](./Test_Programmatori.pdf) document.
+A windows pre-build release demo is available in the releases page.
 
 ## Description
 This inventory system allows players to:
