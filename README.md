@@ -10,8 +10,7 @@ This inventory system allows players to:
 - Consume items and apply their effects
 
 ## Requirements
-- Unity (version specified in the project settings)
-- Requirements are detailed in the [Test_Programmatori.pdf](./Test_Programmatori.pdf) file included in the project documentation
+- Unity 6000.0.45f1
 
 ## Installation
 1. Clone this repository
